@@ -1,10 +1,10 @@
-## Análise de Governo Eletrônico
+# Análise de Governo
 
-Em breve será apresentada a documentação no readme
+**06/01/2024**
 
 ![title](projeto.png)
 
-> #### Objetivo:
+> #### Objetivo: Embora não tenha sido direcionado para um local ou governo específico, o objetivo foi Analisar dados, responder algumas questões e propor soluções para os governantes.
 ________
 
 
@@ -17,6 +17,7 @@ ________
 
 
 
+* **Análise completa:** https://github.com/ElvisRock/Analise_Gov_Eletronico/blob/main/E-Gov-Analytics.ipynb
 
 
 
