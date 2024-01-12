@@ -1,4 +1,4 @@
-# Análise de Governo
+# Análise de Governo 
 
 _05/01/2024_
 
@@ -22,6 +22,9 @@ Para a execução deste Jupyter Notebook, é necessário.
 
 Resolva todas as instalações, de uma vez só, uma maneira relativamente fácil, use a distribuição Python como [Anaconda](https://www.anaconda.com/download).
 
+
+
+**Sobre:**_E-Gov-Analytics, refere-se essencialmente ao uso de Tecnologias de Informação e Comunicação (TIC) e outras tecnologias baseadas na web para melhorar e/ou aumentar a eficiência e eficácia da prestação de serviços no setor público_
 
 
 
