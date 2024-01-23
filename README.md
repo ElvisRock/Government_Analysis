@@ -26,6 +26,7 @@ Resolva todas as instalações, de uma vez só, uma maneira relativamente fácil
 
 **Sobre:** _E-Gov-Analytics, refere-se essencialmente ao uso de Tecnologias de Informação e Comunicação (TIC) e outras tecnologias baseadas na web para melhorar e/ou aumentar a eficiência e eficácia da prestação de serviços no setor público_
 
+## <font color = 'blue'>How does an increase in GDP (Gross Domestic Product) and government spending impact the health and education sectors?<font>
 
 
 
