@@ -5,7 +5,7 @@ _05/01/2024_
 ![title](projeto.png)
 
 
-**Objetivo:** Embora não tenha sido direcionado para um local ou governo específico, o objetivo foi Analisar dados, responder algumas questões e propor soluções para os governantes.
+**Objetivo:** Although it was not directed at a specific location or government, the goal was to analyze data, address some questions, and propose solutions for policymakers.
 
 
 
@@ -20,7 +20,7 @@ For the execution of this Jupyter Notebook, it is necessary
 * [scikit-learn](https://scikit-learn.org/stable/)
 * [Jupyter](https://jupyter.org/)
 
-Resolva todas as instalações, de uma vez só, uma maneira relativamente fácil, use a distribuição Python como [Anaconda](https://www.anaconda.com/download).
+Solve all installations at once, a relatively easy way, is to use the Python distribution like [Anaconda](https://www.anaconda.com/download).
 
 
 
