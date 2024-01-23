@@ -9,9 +9,9 @@ _05/01/2024_
 
 
 
-### Notas de Instalação
+### Notes for Installation
 
-Para a execução deste Jupyter Notebook, é necessário.
+For the execution of this Jupyter Notebook, it is necessary
 
 * [NumPy](https://numpy.org/)
 * [pandas](https://pandas.pydata.org/)
