@@ -5,7 +5,7 @@ _05/01/2024_
 ![title](projeto.png)
 
 
-**Objetivo:** Although it was not directed at a specific location or government, the goal was to analyze data, address some questions, and propose solutions for policymakers.
+**Project Goal:** Although it was not directed at a specific location or government, the goal was to analyze data, address some questions, and propose solutions for policymakers.
 
 
 
@@ -24,7 +24,7 @@ Solve all installations at once, a relatively easy way, is to use the Python dis
 
 
 
-**Sobre:** _E-Gov-Analytics, refere-se essencialmente ao uso de Tecnologias de Informação e Comunicação (TIC) e outras tecnologias baseadas na web para melhorar e/ou aumentar a eficiência e eficácia da prestação de serviços no setor público_
+**About:** _"E-Gov-Analytics, refere-se essencialmente ao uso de Tecnologias de Informação e Comunicação (TIC) e outras tecnologias baseadas na web para melhorar e/ou aumentar a eficiência e eficácia da prestação de serviços no setor público"_
 
 ## <font color = 'blue'>How does an increase in GDP (Gross Domestic Product) and government spending impact the health and education sectors?<font>
 
@@ -36,7 +36,7 @@ Solve all installations at once, a relatively easy way, is to use the Python dis
 
 ____________________________
 
-**Análise completa:** https://github.com/ElvisRock/Analise_Gov_Eletronico/blob/main/E-Gov-Analytics.ipynb
+**Check the full analysis here:** https://github.com/ElvisRock/Analise_Gov_Eletronico/blob/main/E-Gov-Analytics.ipynb
 
 
 
