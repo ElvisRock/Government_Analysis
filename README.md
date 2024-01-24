@@ -28,7 +28,25 @@ Solve all installations at once, a relatively easy way, is to use the Python dis
 
 ## <font color = 'blue'>How does an increase in GDP (Gross Domestic Product) and government spending impact the health and education sectors?<font>
 
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 
 
