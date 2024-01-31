@@ -54,7 +54,7 @@ Solve all installations at once, a relatively easy way, is to use the Python dis
 
 ____________________________
 
-**Check the full analysis here:** https://github.com/ElvisRock/Analise_Gov_Eletronico/blob/main/E-Gov-Analytics.ipynb
+**Check it out in:** https://github.com/ElvisRock/Analise_Gov_Eletronico/blob/main/E-Gov-Analytics.ipynb
 
 
 
