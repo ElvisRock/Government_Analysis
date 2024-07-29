@@ -2,7 +2,7 @@
 
 _05/01/2024_
 
-![title](projeto.png)
+![title](imagens/projeto.png)
 
 
 **Project Goal:** Although it was not directed at a specific location or government, the goal was to analyze data, address some questions, and propose solutions for policymakers.
